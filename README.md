@@ -47,7 +47,5 @@ The library uses a scaling factor to convert raw sensor data into meaningful val
 
 Ensure CRC validation passes to verify data integrity.
 
-License
 
-This library is provided under the MIT License. See LICENSE for details.
 
