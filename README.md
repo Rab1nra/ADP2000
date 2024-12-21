@@ -6,6 +6,8 @@ Introduction
 
 The ADP2000 is a high-precision differential pressure sensor with built-in temperature measurement capabilities. It communicates via the I2C interface, making it simple to integrate with microcontrollers like the ESP32. This library provides an easy-to-use interface for working with the ADP2000 in the Arduino framework.
 
+The ADP2000 zip is a library compatible ADP2000.
+
 Features
 
 Measure differential pressure in Pascals (Pa).
