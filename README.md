@@ -1,6 +1,6 @@
 ADP2000 Arduino Library
 
-Author: Rabindra SharmaDate: 22-12-2024
+Author: Rabindra Sharma  Date: 22-12-2024
 
 Introduction
 
